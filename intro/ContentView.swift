@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @State private var isnight = false
+    @State private var isnight = true
     
     var body: some View {
         ZStack{
